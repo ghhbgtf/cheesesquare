@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/icon.png)
+![alt text](https://github.com/ghhbgtf/cheesesquare/blob/master/description.jpg)
 
 Cheesesquare Sample
 ===================================
